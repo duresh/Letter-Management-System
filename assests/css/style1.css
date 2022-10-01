@@ -1,0 +1,18 @@
+/*form validation*/
+input.error{
+  background: #f8dbdb;
+  border-color: #e77776;
+}
+input.valid{
+  background: #99ff99;
+  border-color: green;
+}
+div span.error{
+  color: red;
+}
+div span.valid{
+  color: green;
+}
+.backgr{
+	background-color:#e3e3e3; 
+}

@@ -68,3 +68,16 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+
+***************
+Screenshots
+***************
+
+![screenshots1](https://github.com/duresh/Letter-Management-System/blob/main/1.png)
+![screenshots2](https://github.com/duresh/Letter-Management-System/blob/main/2.png)
+![screenshots3](https://github.com/duresh/Letter-Management-System/blob/main/3.png)
+![screenshots4](https://github.com/duresh/Letter-Management-System/blob/main/4.png)
+![screenshots5](https://github.com/duresh/Letter-Management-System/blob/main/5.png)
+![screenshots6](https://github.com/duresh/Letter-Management-System/blob/main/6.png)
+![screenshots7](https://github.com/duresh/Letter-Management-System/blob/main/7.png)
